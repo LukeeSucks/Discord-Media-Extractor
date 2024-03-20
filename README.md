@@ -14,6 +14,6 @@ This script simply uses the data that discord sends you when you request it will
 
 It will then run and look through all folders inside the messages folder, though all the .csv of message data, and pull all discord links for all images and videos sent and will download them to `package/messages/downloads/images-videos`. 
 
-This can take a long time to excecute upt ot hours to fully complete, it depends on internet speed mostly and also how much data and files you have to download, the code itself is optimised for max speed.
+This can take a long time to excecute up to hours to fully complete, it depends on internet speed mostly and also how much data and files you have to download, the code itself is optimised for max speed.
 
 Any issues or questions feel free to message me on discord @LukeeSucks
